@@ -1,0 +1,71 @@
+.nav-post{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 30px;
+}
+.post-editor-container{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.nav-post-container .height-element{
+    height: 30px;
+}
+.nav-post-container{
+    border-right: 1px solid #2F3336;
+    border-bottom: 1px solid #2F3336;
+    margin-bottom: 20px;
+}
+.post-editor{
+    margin-left: 70px;
+    margin-bottom: 20px;
+    display: flex;
+}
+.post-editor-container{
+    border: 1px solid #2F3336;
+}
+.post-editor-container .post-editor .profile-image .image img{
+    border-radius: 50%;
+    width: 70px;
+}
+.post-editor-container .post-editor .input-button .button button{
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 500px;
+    height: 50px;
+    font-size: 17px;
+    font-weight: 700;
+    background-color: transparent;
+    border: 1px solid #2F3336;
+    color: var(--color);
+    border-radius: 50px;
+}
+.post-editor-container .post-editor .input-button .button button:hover{
+    background-color: #171717;
+    border: 1px solid #616161;
+}
+.post-editor-container .post-editor .input-button .button button:active{
+    background-color: #2F3336;
+    border: 1px solid #848383;
+}
+.modal-input-container textarea{
+    outline: none;
+    border: none;
+    font-size: 15px;
+    margin-top: 20px;
+    columns: 75;
+}
+.profile-modal .image img{
+    border-radius: 50%;
+    width: 60px;
+}
+.profile-modal{
+    margin-top: 20px;
+    display: flex;
+}
+.profile-modal .name{
+    margin-top: 15px;
+    margin-left: 10px;
+    font-size: 15px;
+}

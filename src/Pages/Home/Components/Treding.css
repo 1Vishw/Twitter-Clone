@@ -1,0 +1,31 @@
+.trending-container .subscribe{
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border: 1px solid #2F3336;
+    padding: 20px;
+    border-radius: 10px;
+}
+.trending-container{
+    width: 30%;
+}
+.trending-container .heading{
+    font-size: 20px;
+    font-weight: 700;
+}
+.trending-container .text{
+    font-size: 16px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.trending-container .button button{
+    margin-bottom: 8px;
+    background-color: #1A8CD8;
+    color: var(--color);
+    font-weight: 700;
+    height: 40px;
+    width: 100px;
+    border-radius: 50px;
+    border: none;
+    cursor: pointer;
+}

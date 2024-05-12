@@ -1,0 +1,144 @@
+@media (max-width: 1700px){
+    .post-editor-container .post-editor .input-button .button button{
+        width:700px;
+    }
+}
+@media (max-width: 1600px){
+    .post-editor-container .post-editor .input-button .button button{
+        width:600px;
+    }
+}
+@media (max-width: 1500px){
+    .post-editor-container .post-editor .input-button .button button{
+        width: 500px;
+    }
+}
+@media (max-width: 1100px) {
+    .post-editor-container .post-editor .input-button .button button{
+        width: 400px;
+    }
+    .nav-bar-container .lists{
+        margin-left: 50px;
+        margin-bottom: 20px;
+    }
+}
+@media (max-width: 1000px){
+    .post-editor-container .post-editor .input-button .button button{
+        width: 350px;
+    }
+    
+}
+@media (max-width: 900px){
+    .post-editor-container .post-editor .input-button .button button{
+        width: 320px;
+    }
+    .nav-bar-container .lists{
+        margin-left: 40px;
+        margin-bottom: 20px;
+    }
+}
+@media (max-width: 850px){
+    .post-editor-container .post-editor .input-button .button button{
+        width: 300px;
+    }
+}
+@media (max-width: 830px){
+    .nav-bar-container .lists{
+        margin-left: 35px;
+        margin-bottom: 20px;
+    }
+}
+@media (max-width: 800px){
+    .post-editor-container .post-editor .input-button .button button{
+        width: 290px;
+    }
+}
+@media (max-width: 760px){
+    .post-editor-container .post-editor .input-button .button button{
+        width: 250px;
+    }
+}
+@media (max-width: 740px){
+    .post-editor-container .post-editor .input-button .button button{
+        width: 230px;
+    }
+    .nav-bar-container .lists{
+        margin-left: 30px;
+        margin-bottom: 20px;
+    }
+}
+@media (max-width: 680){
+    .post-editor-container .post-editor .input-button .button button{
+        width: 230px;
+    }
+    .nav-bar-container .lists{
+        margin-left: 20px;
+        margin-bottom: 20px;
+    }
+}
+@media (max-width: 650px){
+    .post-editor-container .post-editor .input-button .button button{
+        width: 200px;
+    }
+    .nav-bar-container .lists{
+        margin-left: 10px;
+        margin-bottom: 20px;
+    }
+}
+@media (max-width: 620px){
+    .post-editor-container .post-editor .input-button .button button{
+        width: 180px;
+    }
+    .nav-bar-container .lists{
+        margin-bottom: 20px;
+    }
+}
+@media (max-width:500px) {
+    .trending-container{
+        display: none;
+    }
+    .post-editor-container{
+        width: 90%;
+    }
+    .nav-bar-container .lists{
+        margin-left: 10px;
+        margin-bottom: 20px;
+    }
+    .nav-bar-container .lists ul li i{
+        font-size: 20px;
+    }
+    .nav-bar-container .lists img{
+        width: 20px;
+    }
+    .post-card .post .time-stamp{
+        display: none;
+    }
+    .post-card .post .profile-image{
+        margin-top: 20px;
+        width: 40px;
+    }
+    .post-card .post .profile{
+        display: flex;
+    }
+    .post-card .post .profile-image img{
+        border-radius: 50%;
+        margin-left: 50px;
+        width: 30px;
+    }
+    .post-card .post .profile .user-name{
+        margin-top: 28px;
+        margin-left:60px;
+    }
+    .nav-post h3{
+        font-size: 15px;
+    }
+    .post-editor-container .post-editor .profile-image .image img{
+        border-radius: 50%;
+        width: 50px;
+    }
+    .post-editor{
+        margin-left: 40px;
+        margin-bottom: 20px;
+        display: flex;
+    }
+}

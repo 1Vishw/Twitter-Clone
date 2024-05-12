@@ -1,0 +1,35 @@
+.post-card .post{
+    border-bottom: 1px solid #2F3336;
+    width: 100%;
+    text-align: left;
+    border-top: 1px solid #2F3336;
+    border-right: 1px solid #2F3336;
+    border-left: 1px solid #2F3336;
+}
+.post-card .post p{
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+.post-card .post .profile-image img{
+    border-radius: 50%;
+    margin-left: 50px;
+    width: 50px;
+}
+.post-card .post .profile-image{
+    margin-top: 24px;
+}
+.post-card .post .time-stamp{
+    float: right;
+    margin-top: 20px;
+    color: #969696;
+    margin-right: 30px;
+}
+.post-card .post .profile{
+    display: flex;
+}
+.post-card .post .profile .user-name{
+    margin-top: 40px;
+    margin-left: 10px;
+}
